@@ -3,4 +3,4 @@ Discord Selfbot to run on Heroku. Runs on Discord.py. Bot is completely stateles
 
 Not my code, pulled from Appu1232's GitHub, hosted on mine to use for Heroku.
 
-https://heroku.com/deploy?template=https://github.com/AmirAgassi/selfbot.py/tree/rewrite
+https://heroku.com/deploy?template=https://github.com/NexusLove/selfbot.py/tree/rewrite
